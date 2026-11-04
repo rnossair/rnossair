@@ -11,7 +11,6 @@ I'm most interested in the layer above "call an LLM": agent architectures, retri
 ## 🔭 Currently
 
 - Building **[ALIA](https://github.com/rnossair/alia-discord-bot)**, a Discord agent with a tuned intent router (`SKIP` / `STANDARD` / `RAG` / `CLIP`), provider-agnostic LLM failover across Ollama, Groq, and Gemini, and MCP tool integration. Took router accuracy from **59% → 93%** using a labeled eval set.
-- Working through **CodePath's Applications of AI Engineering** certificate (RAG pipelines, multi-tool agents, safety guardrails)
 - In **CodePath AI301** (AI capstone) this fall
 
 ## 🧪 Projects
