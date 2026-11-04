@@ -4,7 +4,7 @@ CS & Stats @ Grinnell College '28 | building AI systems that route, retrieve, an
 
 I'm most interested in the layer above "call an LLM": agent architectures, retrieval pipelines, tool orchestration via MCP, and actually **evaluating** whether any of it works.
 
-**Looking for Summer 2027 AI engineering internships.** The best way to reach me is [rayanenossair2006@gmail.com](mailto:rayanenossair2006@gmail.com).
+**Looking for Summer 2027 AI engineering internships.** The best way to reach me is [nossairr@grinnell.edu](mailto:nossairr@grinnell.edu).
 
 ---
 
